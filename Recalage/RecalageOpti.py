@@ -78,8 +78,8 @@ def RecalageOpenCV(imageRef: any ,imageToAligned: any):
     #cv2.imwrite(saveName, transformed_img)
     return transformed_img
 
-DataSetPath = os.path.join("/home","mortpo","ESIREM","PFE","DataSet")
-RecalagePath = os.path.join("/home","mortpo","ESIREM","PFE","Recalage")
+DataSetPath = os.path.join("DataSet")
+RecalagePath = os.path.join("Recalage")
 SavePath =  os.path.join(".")
 
 Cameras = ("Camera1","Camera2","Camera3","Camera4")
