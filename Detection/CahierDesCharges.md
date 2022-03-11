@@ -1,4 +1,4 @@
-[200~# Cahier des charges d'une solution de detection de maladies dans la vigne
+# Cahier des charges d'une solution de detection de maladies dans la vigne
 
 ## Cas particulier étudier pendant la rédaction du cahier : La flavescence dorée
 
